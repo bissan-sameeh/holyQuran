@@ -31,7 +31,7 @@ A beautifully designed Quran application developed using **Flutter**, providing 
 
 ## 🖼️ Screenshots / Mockups
 
-_You can add screenshots or mockups of your app here._
+![MockUp](quran-mockup.png)
 
 
 ---
